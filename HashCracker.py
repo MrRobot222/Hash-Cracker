@@ -17,7 +17,7 @@ print("                            This Script Was Made By JOKER HACKER​​​
  
                                                                                                                                    
 pass_hash = input("\033[1;36;40m Enter the md5 hash: ")
-wordlist = input("\033[1;36;40m  Wordlis Location: ")
+wordlist = input("\033[1;36;40m  Wordlist Location: ")
 
 try:
     pass_file = open (wordlist, "r")
