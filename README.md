@@ -1,14 +1,12 @@
 This Script Was Made By JOKER HACKER
 
-It was open source and anyone can use this script
+#Instructions
 
-#instructions
+>`cd Hash-Cracker`
 
-cd Hash-Cracker
+>`python3 HashCracker.py`
 
-python3 HashCracker.py
-
-#usage
+#Usage
 
 1. Enter the hash string
 2. Then Enter the wordlist location
